@@ -1,0 +1,5 @@
+Product0001,Laptop,Dell,$,2000,12
+Product0002,Laptop,Asus,$,2100,5
+Product0003,Keyboard,Logitech,VND,300,55
+Product0004,Mouse,Logitech,VND,99,20
+Product0005,Airpod,Apple,$,100,29

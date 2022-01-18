@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1642474843 source:h:\code block\project\project_quanlybanhang\employee.cpp
+	"employee.h"
+
+1642480652 source:h:\code block\project\project_quanlybanhang\main.cpp
+	"utils.h"
+	"processFile.h"
+
+1642483630 source:h:\code block\project\project_quanlybanhang\product.cpp
+	"product.h"
+
+1642482398 h:\code block\project\project_quanlybanhang\product.h
+	"lib.h"
+
+1642482416 h:\code block\project\project_quanlybanhang\lib.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+
+1642428456 source:h:\code block\project\project_quanlybanhang\processfile.cpp
+	"processFile.h"
+
+1642473287 h:\code block\project\project_quanlybanhang\processfile.h
+	"product.h"
+	"employee.h"
+
+1642483699 source:h:\code block\project\project_quanlybanhang\utils.cpp
+	"utils.h"
+	"processFile.h"
+
+1642483795 h:\code block\project\project_quanlybanhang\utils.h
+	"lib.h"
+	"product.h"
+	"bill.h"
+	"employee.h"
+
+1642483630 source:h:\code block\project\project_quanlybanhang\bill.cpp
+	"bill.h"
+
+1642474068 h:\code block\project\project_quanlybanhang\bill.h
+	"lib.h"
+	"product.h"
+
+1642483699 h:\code block\project\project_quanlybanhang\employee.h
+	"lib.h"
+	"bill.h"
+
+1642480185 h:\code block\project\project_quanlybanhang\mylib.h
+	<conio.h>
+	<stdio.h>
+	<ctime>
+	"windows.h"
+

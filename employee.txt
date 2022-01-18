@@ -1,0 +1,9 @@
+0050,Nguyen,Tuan,21,Bac Ninh,Nam,2000
+0051,Nguyen,A,12,Ha Noi,Nam,1000
+0004,Tran,B,33,Hai Duong,Nu,1900
+0070,Nguyen,C,25,Nghe An,Nam,1500
+0100,Ly,D,10,Thanh Hoa,Nam,900
+0012,Tran,E,18,Kien Giang,Nu,1100
+0001,Le,F,60,Ca Mau,Nam,1400
+0006,Cao,G,33,TP.HCM,Nam,1600
+0008,Tong,H,20,Da Nang,Nu,1450
